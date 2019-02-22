@@ -8,9 +8,7 @@ Installation
 
 ### For Cordova 3.0.x:
 
-To add this plugin just type: `cordova plugin add https://github.com/begrossi/MediaScannerPlugin.git` or
-`cordova plugin add cordova-plugin-mediascanner` (using npmjs [repository](https://www.npmjs.com/package/cordova-plugin-mediascanner)).
-
+To add this plugin just type: `cordova plugin add https://github.com/marcelinojung/MediaScannerPlugin.git` 
 
 Usage:
 ------
