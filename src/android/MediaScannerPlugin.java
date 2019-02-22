@@ -1,4 +1,4 @@
-package br.com.brunogrossi.MediaScannerPlugin;
+package com.MediaScannerPlugin;
 
 import org.apache.cordova.CallbackContext;
 import org.apache.cordova.CordovaPlugin;
