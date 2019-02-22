@@ -24,7 +24,7 @@
 
         <config-file target="res/xml/config.xml" parent="/*">
           <feature name="MediaScannerPlugin" >
-            <param name="android-package" value="br.com.brunogrossi.MediaScannerPlugin.MediaScannerPlugin"/>
+            <param name="android-package" value="com.MediaScannerPlugin.MediaScannerPlugin"/>
           </feature>
         </config-file>
 
